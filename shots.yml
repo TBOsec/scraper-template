@@ -2,5 +2,8 @@
 #   output: shot.png
 #   height: 800
 - url: vip.bday.top
-  output: shot.png
+  output: images/shot.png
+  height: 800
+- url: https://www.baidu.com/
+  output: images/baiud.png
   height: 800
